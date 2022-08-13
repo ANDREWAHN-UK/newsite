@@ -18,11 +18,11 @@
     <h2>Follow each link to the page example</h2>
     <ul>
         <li><a href="array.php">Simple Array and Print Outs</a></li>
-        <li><a href="forloop.php">Simple for loop</a></li>
-        
+        <li><a href="forloop.php">Simple for loop</a></li>        
         <li><a href="whiledowhileloop.php">Simple while & do while loops</a></li>
         <li><a href="ifstatement.php">Simple if statement</a></li>
         <li><a href="switchstatement.php">Simple switch statement</a></li>
+        <li><a href="stringstuff.php">Simple String manipulations</a></li>
     </ul>
 
     <?php echo 'Hello PHP' ;
