@@ -1,8 +1,18 @@
-<?php 
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-echo 'Hello World';
+    <title>Experiments with PHP</title>
 
-echo ' <p>So I can build and deploy this rapidly to Heroku, at least before I start messing around with databases!</p>';
+    </head>
 
-echo ' <p>Nadia likes avocados</p>';
-?>
+    <body>
+
+    <p>This is a page exploring the working of PHP</p>
+
+
+    </body>
+</html>
