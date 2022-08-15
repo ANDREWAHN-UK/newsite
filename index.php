@@ -35,7 +35,7 @@
 
         $datenow = getdate();
         echo "Today's date <br/>";
-        echo $datenow['mday'] . ' ' . $datenow['mon']. ' ' .$datenow['year']
+        echo $datenow['mday'] . '/ ' . $datenow['mon']. ' /' .$datenow['year']
     ?>
 
     <!-- Comments! -->
