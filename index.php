@@ -23,6 +23,7 @@
         <li><a href="ifstatement.php">Simple if statement</a></li>
         <li><a href="switchstatement.php">Simple switch statement</a></li>
         <li><a href="stringstuff.php">Simple String manipulations</a></li>
+        <li><a href="functions.php">Simple functions</a></li>
     </ul>
 
     <?php echo 'Hello PHP' ;
