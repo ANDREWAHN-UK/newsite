@@ -34,8 +34,9 @@
         echo '<br/>';  
 
         $datenow = getdate();
-        echo "Today's date <br/>";
-        echo $datenow['mday'] . '/ ' . $datenow['mon']. ' /' .$datenow['year']
+        echo "Today's date and Time <br/>";        
+
+        print date("d/m/y G.i:s <br>", time());
     ?>
 
     <!-- Comments! -->
